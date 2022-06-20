@@ -1,0 +1,5 @@
+{
+    "Key": "<Private Key Here>", 
+    "KeyShard": "<OPTIONAL: Private Key Shard Here>",
+    "ProjectId": "<Infura ID Here>"
+}
