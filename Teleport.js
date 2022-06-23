@@ -458,7 +458,6 @@ async function signMsg(message, web3){ //will become MPC
  * For multichain transactions
  */
 async function getEVMTx(txh, w3From, fromBridgeContract){
-     console.log('w3From:', w3From);
      console.log('In getEVMTx', 'txh:', txh);
      try {
           txh = txh.toString();
